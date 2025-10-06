@@ -15,12 +15,12 @@ Currently exploring **Natural Language Processing (NLP)** and **Large Language M
 
 ## 🧰 Technical Skills  
 
-**Programming Languages:** Python, C, Java, TypeScript  
-**Web Development:** Angular, Spring Boot, .NET 6  
-**Database Management:** Oracle, MySQL, PostgreSQL  
-**Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn  
-**Tools & Frameworks:** Flask, Django, MLflow, Docker, Git, Jenkins  
-**Languages:** English, French
+**programming languages:** python, c, java, typescript  
+**web development:** angular, spring boot, .net 6  
+**database management:** oracle, mysql, postgresql  
+**machine learning & ai:** tensorflow, pytorch, scikit-learn  
+**tools & frameworks:** flask, django, mlflow, docker, git, jenkins  
+**languages:** english, french
 ---
 
 💫 *“Driven by curiosity, guided by data, and inspired by the endless possibilities of AI.”*
