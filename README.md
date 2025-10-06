@@ -13,14 +13,16 @@ Currently exploring **Natural Language Processing (NLP)** and **Large Language M
 - 🚀 Passionate about applying AI to solve real-world problems and build meaningful solutions  
 - 🌱 Continuously improving my technical and research skills through projects and internships
 
-## 🧰 Technical Skills  
+---
 
-**programming languages:** python, c, java, typescript  
-**web development:** angular, spring boot, .net 6  
-**database management:** oracle, mysql, postgresql  
-**machine learning & ai:** tensorflow, pytorch, scikit-learn  
-**tools & frameworks:** flask, django, mlflow, docker, git, jenkins  
-**languages:** english, french
+## 🧰 Technical Skills 
+- 💻 Programming languages: python, c, java, typescript  
+- 🌐 Web development: angular, spring boot, .net 6  
+- 🗄️ Database management: oracle, mysql, postgresql  
+- 🤖 Machine learning & ai: tensorflow, pytorch, scikit-learn  
+- 🛠️ Tools & frameworks: flask, django, mlflow, jenkins  
+- 🗣️ Languages: english, french
+
 ---
 
 💫 *“Driven by curiosity, guided by data, and inspired by the endless possibilities of AI.”*
