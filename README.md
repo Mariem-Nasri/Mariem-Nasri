@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mariem Nasri  
-🎓 **Data Science Engineering Student** | 🤖 **AI & NLP Enthusiast** | 📊 **Machine Learning Practitioner**
+🎓 **Data Science Engineering ** | 🤖 **AI & NLP Enthusiast** | 📊 **Machine Learning Practitioner**
 
 Passionate about leveraging **Artificial Intelligence** to solve real-world problems.  
 Currently exploring **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** while deepening my expertise in **Computer Vision** and **MLOps**.
@@ -7,7 +7,7 @@ Currently exploring **Natural Language Processing (NLP)** and **Large Language M
 ---
 
 ## 🧠 About Me  
-- 🎓 Data Science Engineering student at **ESPRIT**  
+- 🎓 AI & Data Science Engineer 
 - 🤖 Interested in **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**  
 - 🧩 Currently learning more about **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**  
 - 🚀 Passionate about applying AI to solve real-world problems and build meaningful solutions  
